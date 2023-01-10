@@ -10,7 +10,7 @@ if [ install == $install ];
 then
         echo "package is installed"
 else
-        sudo apt install apache2 -y
+        sudo apt install apache2 -y 
 fi
 #i need to check the status
 
